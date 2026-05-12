@@ -21,6 +21,18 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/7.ts
 #EXTINF:-1 tvg-name="Madani TV" group-title="PK | ISLAMIC",Madani TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/3.ts
 
+#EXTINF:-1 tvg-name="QURAN MAJEED 24/7" group-title="PK | ISLAMIC",QURAN MAJEED 24/7
+http://rolextv.one/live/SyedSobanHaidar/03215838388/144707.m3u8
+
+#EXTINF:-1 tvg-name="NAATS 24/7" group-title="PK | ISLAMIC",NAATS 24/7
+http://rolextv.one/live/SyedSobanHaidar/03215838388/59974.m3u8
+
+#EXTINF:-1 tvg-name="Peace TV English HD" group-title="PK | ISLAMIC",Peace TV English HD
+http://rolextv.one/live/SyedSobanHaidar/03215838388/9.m3u8
+
+#EXTINF:-1 tvg-name="Paigham Pashto TV" group-title="PK | ISLAMIC",Paigham Pashto TV
+http://rolextv.one/live/SyedSobanHaidar/03215838388/225461.m3u8
+
 #EXTINF:-1 tvg-name="Ary News" group-title="PK | NEWS",Ary News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/51.ts
 
