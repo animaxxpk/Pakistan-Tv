@@ -167,25 +167,35 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/146923.ts
 
 #EXTINF:-1 tvg-name="RAAVI TV" group-title="PK | MOVIES",RAAVI TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27083.ts
-#EXTINF:0,PTV SPORTS
+
+#EXTINF:-1 tvg-name="PTV SPORTS" group-title="PK & IND | SPORTS",PTV SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/47588.ts
-#EXTINF:0,TEN SPORTS
+
+#EXTINF:-1 tvg-name="TEN SPORTS" group-title="PK & IND | SPORTS",TEN SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/48599.ts
-#EXTINF:0,A SPORTS
+
+#EXTINF:-1 tvg-name="A SPORTS" group-title="PK & IND | SPORTS",A SPORTS
 http://rolextv.one/live/SyedSobanHaidar/03215838388/48602.m3u8
-#EXTINF:0,GEO SUPER
+
+#EXTINF:-1 tvg-name="GEO SUPER" group-title="PK & IND | SPORTS",GEO SUPER
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/49709.ts
-#EXTINF:0,Eurosport
+
+#EXTINF:-1 tvg-name="Eurosport" group-title="PK & IND | SPORTS",Eurosport
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8
-#EXTINF:0,SuperSports Cricket
+
+#EXTINF:-1 tvg-name="SuperSports Cricket" group-title="PK & IND | SPORTS",SuperSports Cricket
 http://rolextv.one/live/SyedSobanHaidar/03215838388/27267.m3u8
-#EXTINF:0,Eurosports IND
+
+#EXTINF:-1 tvg-name="Eurosports IND" group-title="PK & IND | SPORTS",Eurosports IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/60379.m3u8
-#EXTINF:0,Star Sports 2 IND
+
+#EXTINF:-1 tvg-name="Star Sports 2 IND" group-title="PK & IND | SPORTS",Star Sports 2 IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27249.ts
-#EXTINF:0,SuperSports Premier League
+
+#EXTINF:-1 tvg-name="SuperSports Premier League" group-title="PK & IND | SPORTS",SuperSports Premier League
 http://rolextv.one/live/SyedSobanHaidar/03215838388/28127.m3u8
-#EXTINF:0,FAST SPORTS
+
+#EXTINF:-1 tvg-name="FAST SPORTS" group-title="PK & IND | SPORTS",FAST SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/197426.ts
 #EXTINF:0,DISCOVER PAKISTAN
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/268568.ts
