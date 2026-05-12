@@ -153,21 +153,6 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27074.ts
 #EXTINF:-1 tvg-name="Star News" group-title="PK | NEWS",STAR News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/19293.ts
 
-#EXTINF:-1 tvg-name="FILMAX" group-title="PK | MOVIES",FILMAX
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27078.ts
-
-#EXTINF:-1 tvg-name="A1 Tv" group-title="PK | MOVIES",A1 Tv
-http://rolextv.one/live/SyedSobanHaidar/03215838388/36870.m3u8
-
-#EXTINF:-1 tvg-name="Falak Tv" group-title="PK | MOVIES",Falak Tv
-https://falak.rst.ae/index.m3u8
-
-#EXTINF:-1 tvg-name="INPLUS" group-title="PK | MOVIES",INPLUS
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/146923.ts
-
-#EXTINF:-1 tvg-name="RAAVI TV" group-title="PK | MOVIES",RAAVI TV
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27083.ts
-
 #EXTINF:-1 tvg-name="PTV SPORTS" group-title="PK & IND | SPORTS",PTV SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/47588.ts
 
@@ -197,39 +182,6 @@ http://rolextv.one/live/SyedSobanHaidar/03215838388/28127.m3u8
 
 #EXTINF:-1 tvg-name="FAST SPORTS" group-title="PK & IND | SPORTS",FAST SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/197426.ts
-
-#EXTINF:-1 tvg-name="DISCOVER PAKISTAN" group-title="PK & IND | DISCOVERY",DISCOVER PAKISTAN
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/268568.ts
-
-#EXTINF:-1 tvg-name="DISCOVERY IND" group-title="PK & IND | DISCOVERY",DISCOVERY IND
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/111266.ts
-
-#EXTINF:-1 tvg-name="NATIONAL GEO GRAPHIC IND" group-title="PK & IND | DISCOVERY",NATIONAL GEO GRAPHIC IND
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96633.ts
-
-#EXTINF:-1 tvg-name="NAT GEO WILD IND" group-title="PK & IND | DISCOVERY",NAT GEO WILD IND
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103401.ts
-
-#EXTINF:-1 tvg-name="ANIMAL PLANET IND" group-title="PK & IND | DISCOVERY",ANIMAL PLANET IND
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96441.ts
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png" group-title="PK | KIDS CARTOON",Cartoon Network
-https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
-
-#EXTINF:-1 tvg-name="Kids Zone" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/kidszone.png" group-title="PK | KIDS CARTOON",Kids Zone
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/84.ts
-
-#EXTINF:-1 tvg-name="Minimax" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/minimax.jpg" group-title="PK | KIDS CARTOON",Minimax
-http://rolextv.one/live/SyedSobanHaidar/03215838388/3015.m3u8
-
-#EXTINF:-1 tvg-name="Planet Fun" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png" group-title="PK | KIDS CARTOON",Planet Fun
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/85.ts
-
-#EXTINF:-1 tvg-name="HOORA Tv" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hoora-tv-uk.png" group-title="PK | KIDS CARTOON",HOORA Tv
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/87.m3u8
-
-#EXTINF:-1 tvg-name="Baby Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="PK | KIDS CARTOON",Baby Tv
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/144607.ts
 
 #EXTINF:-1 tvg-name="Ary Digital" group-title="PK | ENTERTAINMENT",Ary Digital
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26982.ts
@@ -302,6 +254,54 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/36874.ts
 
 #EXTINF:-1 tvg-name="ATV" group-title="PK | ENTERTAINMENT",ATV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27065.ts
+
+#EXTINF:-1 tvg-name="FILMAX" group-title="PK | MOVIES",FILMAX
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27078.ts
+
+#EXTINF:-1 tvg-name="A1 Tv" group-title="PK | MOVIES",A1 Tv
+http://rolextv.one/live/SyedSobanHaidar/03215838388/36870.m3u8
+
+#EXTINF:-1 tvg-name="Falak Tv" group-title="PK | MOVIES",Falak Tv
+https://falak.rst.ae/index.m3u8
+
+#EXTINF:-1 tvg-name="INPLUS" group-title="PK | MOVIES",INPLUS
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/146923.ts
+
+#EXTINF:-1 tvg-name="RAAVI TV" group-title="PK | MOVIES",RAAVI TV
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27083.ts
+
+#EXTINF:-1 tvg-name="DISCOVER PAKISTAN" group-title="PK & IND | DISCOVERY",DISCOVER PAKISTAN
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/268568.ts
+
+#EXTINF:-1 tvg-name="DISCOVERY IND" group-title="PK & IND | DISCOVERY",DISCOVERY IND
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/111266.ts
+
+#EXTINF:-1 tvg-name="NATIONAL GEO GRAPHIC IND" group-title="PK & IND | DISCOVERY",NATIONAL GEO GRAPHIC IND
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96633.ts
+
+#EXTINF:-1 tvg-name="NAT GEO WILD IND" group-title="PK & IND | DISCOVERY",NAT GEO WILD IND
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103401.ts
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET IND" group-title="PK & IND | DISCOVERY",ANIMAL PLANET IND
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96441.ts
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png" group-title="PK | KIDS CARTOON",Cartoon Network
+https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-name="Kids Zone" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/kidszone.png" group-title="PK | KIDS CARTOON",Kids Zone
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/84.ts
+
+#EXTINF:-1 tvg-name="Minimax" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/minimax.jpg" group-title="PK | KIDS CARTOON",Minimax
+http://rolextv.one/live/SyedSobanHaidar/03215838388/3015.m3u8
+
+#EXTINF:-1 tvg-name="Planet Fun" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png" group-title="PK | KIDS CARTOON",Planet Fun
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/85.ts
+
+#EXTINF:-1 tvg-name="HOORA Tv" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hoora-tv-uk.png" group-title="PK | KIDS CARTOON",HOORA Tv
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/87.m3u8
+
+#EXTINF:-1 tvg-name="Baby Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/45/BabyTV.png" group-title="PK | KIDS CARTOON",Baby Tv
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/144607.ts
 
 #EXTINF:-1 tvg-name="8XM Music" group-title="PK | MUSIC",8XM Music
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/185.ts
