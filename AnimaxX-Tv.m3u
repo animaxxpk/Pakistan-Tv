@@ -314,33 +314,48 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/17.ts
 
 #EXTINF:-1 tvg-name="Kashish Tv" group-title="PK | MUSIC",Kashish Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27.ts
-#EXTINF:0,KTN Entertainment
+
+#EXTINF:-1 tvg-name="KTN Entertainment" group-title="PK | REGIONAL",KTN Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27070.ts
-#EXTINF:0,KAY 2
+
+#EXTINF:-1 tvg-name="KAY 2" group-title="PK | REGIONAL",KAY 2
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27071.ts
-#EXTINF:0,KHYBER Tv
+
+#EXTINF:-1 tvg-name="KHYBER Tv" group-title="PK | REGIONAL",KHYBER Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27072.ts
-#EXTINF:0,Pashto One
+
+#EXTINF:-1 tvg-name="Pashto One" group-title="PK | REGIONAL",Pashto One
 http://rolextv.one/live/SyedSobanHaidar/03215838388/27073.m3u8
-#EXTINF:0,Filmazia
+
+#EXTINF:-1 tvg-name="Filmazia" group-title="PK | REGIONAL",Filmazia
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27080.ts
-#EXTINF:0,Filmazia Punjabi
+
+#EXTINF:-1 tvg-name="Filmazia Punjabi" group-title="PK | REGIONAL",Filmazia Punjabi
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27082.ts
-#EXTINF:0,Khyber News
+
+#EXTINF:-1 tvg-name="Khyber News" group-title="PK | REGIONAL",Khyber News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/60.ts
-#EXTINF:0,PTV World
+
+#EXTINF:-1 tvg-name="PTV World" group-title="PK | REGIONAL",PTV World
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/65.ts
-#EXTINF:0,PTV Bolan
+
+#EXTINF:-1 tvg-name="PTV Bolan" group-title="PK | REGIONAL",PTV Bolan
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/PTVBolan-abr/live/194H/chunks.m3u8
-#EXTINF:0,Sindh News
+
+#EXTINF:-1 tvg-name="Sindh News" group-title="PK | REGIONAL",Sindh News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/213.ts
-#EXTINF:0,K21 News
+
+#EXTINF:-1 tvg-name="K21 News" group-title="PK | REGIONAL",K21 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/72.ts
-#EXTINF:0,KTN News
+
+#EXTINF:-1 tvg-name="KTN News" group-title="PK | REGIONAL",KTN News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103403.ts
-#EXTINF:0,Time News
+
+#EXTINF:-1 tvg-name="Time News" group-title="PK | REGIONAL",Time News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103402.ts
-#EXTINF:0,PTV National
+
+#EXTINF:-1 tvg-name="PTV National" group-title="PK | REGIONAL",PTV National
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103402.ts
-#EXTINF:0,Sindh Tv
+
+#EXTINF:-1 tvg-name="Sindh Tv" group-title="PK | REGIONAL",Sindh Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27075.ts
