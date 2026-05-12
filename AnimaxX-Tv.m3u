@@ -20,93 +20,137 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/7.ts
 
 #EXTINF:-1 tvg-name="Madani TV" group-title="PK | ISLAMIC",Madani TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/3.ts
-#EXTINF:0,Ary News
+
+#EXTINF:-1 tvg-name="Ary News" group-title="PK | NEWS",Ary News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/51.ts
-#EXTINF:0,Geo News
+
+#EXTINF:-1 tvg-name="Geo News" group-title="PK | NEWS",Geo News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/55.ts
-#EXTINF:0,Geo Tez
+
+#EXTINF:-1 tvg-name="Geo Tez" group-title="PK | NEWS",Geo Tez
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/56.ts
-#EXTINF:0,Express News
+
+#EXTINF:-1 tvg-name="Express News" group-title="PK | NEWS",Express News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/54.ts
-#EXTINF:0,GTV News
+
+#EXTINF:-1 tvg-name="GTV News" group-title="PK | NEWS",GTV News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/58.ts
-#EXTINF:0,GNN News
+
+#EXTINF:-1 tvg-name="GNN News" group-title="PK | NEWS",GNN News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/57.ts
-#EXTINF:0,AJJ News
+
+#EXTINF:-1 tvg-name="AJJ News" group-title="PK | NEWS",AJJ News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/48.ts
-#EXTINF:0,HUM News
+
+#EXTINF:-1 tvg-name="HUM News" group-title="PK | NEWS",HUM News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/59.ts
-#EXTINF:0,ABN News
+
+#EXTINF:-1 tvg-name="ABN News" group-title="PK | NEWS",ABN News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/50.ts
-#EXTINF:0,365 News
+
+#EXTINF:-1 tvg-name="365 News" group-title="PK | NEWS",365 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/62185.ts
-#EXTINF:0,AIK News
+
+#EXTINF:-1 tvg-name="AIK News" group-title="PK | NEWS",AIK News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/211.ts
-#EXTINF:0,ABBTAKK News
+
+#EXTINF:-1 tvg-name="ABBTAKK News" group-title="PK | NEWS",ABBTAKK News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/49.ts
-#EXTINF:0,BOL News
+
+#EXTINF:-1 tvg-name="BOL News" group-title="PK | NEWS",BOL News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/52.ts
-#EXTINF:0,DUNYA News
+
+#EXTINF:-1 tvg-name="DUNYA News" group-title="PK | NEWS",DUNYA News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/53.ts
-#EXTINF:0,NEO News
+
+#EXTINF:-1 tvg-name="NEO News" group-title="PK | NEWS",NEO News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/62.ts
-#EXTINF:0,PUBLIC News
+
+#EXTINF:-1 tvg-name="PUBLIC News" group-title="PK | NEWS",PUBLIC News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/80.ts
-#EXTINF:0,7 NEWS
+
+#EXTINF:-1 tvg-name="7 News" group-title="PK | NEWS",7 NEWS
 http://rolextv.one/live/SyedSobanHaidar/03215838388/367625.m3u8
-#EXTINF:0,92 News
+
+#EXTINF:-1 tvg-name="92 News" group-title="PK | NEWS",92 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/70.ts
-#EXTINF:0,SNN NEWS 
+
+#EXTINF:-1 tvg-name="SNN News" group-title="PK | NEWS",SNN NEWS
 http://rolextv.one/live/SyedSobanHaidar/03215838388/367622.m3u8
-#EXTINF:0,24 News
+
+#EXTINF:-1 tvg-name="24 News" group-title="PK | NEWS",24 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/69.ts
-#EXTINF:0,METRO 1 News
+
+#EXTINF:-1 tvg-name="Metro 1 News" group-title="PK | NEWS",METRO 1 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/61.ts
-#EXTINF:0,News ONE
+
+#EXTINF:-1 tvg-name="News One" group-title="PK | NEWS",News ONE
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/63.ts
-#EXTINF:0,DAWN News
+
+#EXTINF:-1 tvg-name="Dawn News" group-title="PK | NEWS",DAWN News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/76.ts
-#EXTINF:0,Digital Pakistan Dispatch
+
+#EXTINF:-1 tvg-name="Digital Pakistan Dispatch" group-title="PK | NEWS",Digital Pakistan Dispatch
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/Digital-pak-abr/playlist.m3u8
-#EXTINF:0,SUNO News
+
+#EXTINF:-1 tvg-name="Suno News" group-title="PK | NEWS",SUNO News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/79.ts
-#EXTINF:0,BBC News
+
+#EXTINF:-1 tvg-name="BBC News" group-title="PK | NEWS",BBC News
 http://rolextv.one/live/SyedSobanHaidar/03215838388/73.m3u8
-#EXTINF:0,TRT World 
+
+#EXTINF:-1 tvg-name="TRT World" group-title="PK | NEWS",TRT World
 http://rolextv.one/live/SyedSobanHaidar/03215838388/25886.m3u8
-#EXTINF:0,ROZE News
+
+#EXTINF:-1 tvg-name="Roze News" group-title="PK | NEWS",ROZE News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/212.ts
-#EXTINF:0,CAPITAL News
+
+#EXTINF:-1 tvg-name="Capital News" group-title="PK | NEWS",CAPITAL News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/95.ts
-#EXTINF:0,Sun News
+
+#EXTINF:-1 tvg-name="Sun News" group-title="PK | NEWS",Sun News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/272964.ts
-#EXTINF:0,TV 2 day News
+
+#EXTINF:-1 tvg-name="TV 2 Day News" group-title="PK | NEWS",TV 2 day News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/68.ts
-#EXTINF:0,Channel 5 News
+
+#EXTINF:-1 tvg-name="Channel 5 News" group-title="PK | NEWS",Channel 5 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/36935.ts
-#EXTINF:0,SAMAA News
+
+#EXTINF:-1 tvg-name="Samaa News" group-title="PK | NEWS",SAMAA News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/141372.ts
-#EXTINF:0,Chaupaal News
+
+#EXTINF:-1 tvg-name="Chaupaal News" group-title="PK | NEWS",Chaupaal News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/292068.ts
-#EXTINF:0,LAHORE Rang News
+
+#EXTINF:-1 tvg-name="Lahore Rang News" group-title="PK | NEWS",LAHORE Rang News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/7079.ts
-#EXTINF:0,SUCH News
+
+#EXTINF:-1 tvg-name="Such News" group-title="PK | NEWS",SUCH News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/67.ts
-#EXTINF:0,LAHORE News
+
+#EXTINF:-1 tvg-name="Lahore News" group-title="PK | NEWS",LAHORE News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/76.ts
-#EXTINF:0,PTV News
+
+#EXTINF:-1 tvg-name="PTV News" group-title="PK | NEWS",PTV News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/64.ts
-#EXTINF:0,CITY 41 News
+
+#EXTINF:-1 tvg-name="City 41 News" group-title="PK | NEWS",CITY 41 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/214.ts
-#EXTINF:0,CITY 42 News
+
+#EXTINF:-1 tvg-name="City 42 News" group-title="PK | NEWS",CITY 42 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/71.ts
-#EXTINF:0,CITY 21 News
+
+#EXTINF:-1 tvg-name="City 21 News" group-title="PK | NEWS",CITY 21 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/215.ts
-#EXTINF:0,ROHI TV
+
+#EXTINF:-1 tvg-name="Rohi TV" group-title="PK | NEWS",ROHI TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/75.ts
-#EXTINF:0,SEE TV
+
+#EXTINF:-1 tvg-name="SEE TV" group-title="PK | NEWS",SEE TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27074.ts
-#EXTINF:0,STAR News
+
+#EXTINF:-1 tvg-name="Star News" group-title="PK | NEWS",STAR News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/19293.ts
 #EXTINF:0,FILMAX
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27078.ts
