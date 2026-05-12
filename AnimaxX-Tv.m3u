@@ -212,19 +212,23 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103401.ts
 
 #EXTINF:-1 tvg-name="ANIMAL PLANET IND" group-title="PK & IND | DISCOVERY",ANIMAL PLANET IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96441.ts
-#EXTINF:0,LTN Family
-http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27064.ts
-#EXTINF:0,Cartoon Network
+
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="PK | KIDS CARTOON",Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
-#EXTINF:0,Kids Zone
+
+#EXTINF:-1 tvg-name="Kids Zone" group-title="PK | KIDS CARTOON",Kids Zone
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/84.ts
-#EXTINF:0,Minimax
+
+#EXTINF:-1 tvg-name="Minimax" group-title="PK | KIDS CARTOON",Minimax
 http://rolextv.one/live/SyedSobanHaidar/03215838388/3015.m3u8
-#EXTINF:0,PLanet Fun
+
+#EXTINF:-1 tvg-name="Planet Fun" group-title="PK | KIDS CARTOON",PLanet Fun
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/85.ts
-#EXTINF:0,HOORA Tv
+
+#EXTINF:-1 tvg-name="HOORA Tv" group-title="PK | KIDS CARTOON",HOORA Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/87.m3u8
-#EXTINF:0,Baby Tv
+
+#EXTINF:-1 tvg-name="Baby Tv" group-title="PK | KIDS CARTOON",Baby Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/144607.ts
 #EXTINF:0,Ary Digital
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26982.ts
@@ -234,6 +238,8 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26985.ts
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27059.ts
 #EXTINF:0,Hum TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26988.ts
+#EXTINF:0,LTN Family
+http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27064.ts
 #EXTINF:0,Green Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27042.ts
 #EXTINF:0,SAB Entertainment
