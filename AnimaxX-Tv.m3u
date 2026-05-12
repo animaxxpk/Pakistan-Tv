@@ -152,15 +152,20 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27074.ts
 
 #EXTINF:-1 tvg-name="Star News" group-title="PK | NEWS",STAR News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/19293.ts
-#EXTINF:0,FILMAX
+
+#EXTINF:-1 tvg-name="FILMAX" group-title="PK | MOVIES",FILMAX
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27078.ts
-#EXTINF:0,A1 Tv
+
+#EXTINF:-1 tvg-name="A1 Tv" group-title="PK | MOVIES",A1 Tv
 http://rolextv.one/live/SyedSobanHaidar/03215838388/36870.m3u8
-#EXTINF:0,Falak Tv
+
+#EXTINF:-1 tvg-name="Falak Tv" group-title="PK | MOVIES",Falak Tv
 https://falak.rst.ae/index.m3u8
-#EXTINF:0,INPLUS
+
+#EXTINF:-1 tvg-name="INPLUS" group-title="PK | MOVIES",INPLUS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/146923.ts
-#EXTINF:0,RAAVI TV
+
+#EXTINF:-1 tvg-name="RAAVI TV" group-title="PK | MOVIES",RAAVI TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27083.ts
 #EXTINF:0,PTV SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/47588.ts
