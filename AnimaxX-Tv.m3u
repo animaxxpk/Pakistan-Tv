@@ -230,53 +230,77 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/87.m3u8
 
 #EXTINF:-1 tvg-name="Baby Tv" group-title="PK | KIDS CARTOON",Baby Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/144607.ts
-#EXTINF:0,Ary Digital
+
+#EXTINF:-1 tvg-name="Ary Digital" group-title="PK | ENTERTAINMENT",Ary Digital
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26982.ts
-#EXTINF:0,GEO Entertainment
+
+#EXTINF:-1 tvg-name="GEO Entertainment" group-title="PK | ENTERTAINMENT",GEO Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26985.ts
-#EXTINF:0,GEO Kahani
+
+#EXTINF:-1 tvg-name="GEO Kahani" group-title="PK | ENTERTAINMENT",GEO Kahani
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27059.ts
-#EXTINF:0,Hum TV
+
+#EXTINF:-1 tvg-name="Hum TV" group-title="PK | ENTERTAINMENT",Hum TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26988.ts
-#EXTINF:0,LTN Family
+
+#EXTINF:-1 tvg-name="LTN Family" group-title="PK | ENTERTAINMENT",LTN Family
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27064.ts
-#EXTINF:0,Green Entertainment
+
+#EXTINF:-1 tvg-name="Green Entertainment" group-title="PK | ENTERTAINMENT",Green Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27042.ts
-#EXTINF:0,SAB Entertainment
+
+#EXTINF:-1 tvg-name="SAB Entertainment" group-title="PK | ENTERTAINMENT",SAB Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27048.ts
-#EXTINF:0,ANN TV
+
+#EXTINF:-1 tvg-name="ANN TV" group-title="PK | ENTERTAINMENT",ANN TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27055.ts
-#EXTINF:0,Play Tv
+
+#EXTINF:-1 tvg-name="Play Tv" group-title="PK | ENTERTAINMENT",Play Tv
 https://cdn22lhr.tamashaweb.com:8087/jazzauth/play-abr/playlist.m3u8
-#EXTINF:0,MUN Tv
+
+#EXTINF:-1 tvg-name="MUN Tv" group-title="PK | ENTERTAINMENT",MUN Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27062.ts
-#EXTINF:0,Apna Tv
+
+#EXTINF:-1 tvg-name="Apna Tv" group-title="PK | ENTERTAINMENT",Apna Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/142524.ts
-#EXTINF:0,PTV Home
+
+#EXTINF:-1 tvg-name="PTV Home" group-title="PK | ENTERTAINMENT",PTV Home
 http://rolextv.one/live/SyedSobanHaidar/03215838388/36875.m3u8
-#EXTINF:0,BOL Entertainment
+
+#EXTINF:-1 tvg-name="BOL Entertainment" group-title="PK | ENTERTAINMENT",BOL Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27045.ts
-#EXTINF:0,Venus Entertainment
+
+#EXTINF:-1 tvg-name="Venus Entertainment" group-title="PK | ENTERTAINMENT",Venus Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27068.ts
-#EXTINF:0,SET Entertainment
+
+#EXTINF:-1 tvg-name="SET Entertainment" group-title="PK | ENTERTAINMENT",SET Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/147419.ts
-#EXTINF:0,ARY Zindagi
+
+#EXTINF:-1 tvg-name="ARY Zindagi" group-title="PK | ENTERTAINMENT",ARY Zindagi
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27067.ts
-#EXTINF:0,TV ONE
+
+#EXTINF:-1 tvg-name="TV ONE" group-title="PK | ENTERTAINMENT",TV ONE
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27066.ts
-#EXTINF:0,A Plus
+
+#EXTINF:-1 tvg-name="A Plus" group-title="PK | ENTERTAINMENT",A Plus
 https://cdn21lhr.tamashaweb.com:8087/jazzauth/Aplus-abr/playlist.m3u8
-#EXTINF:0,AJJ Entertainment
+
+#EXTINF:-1 tvg-name="AJJ Entertainment" group-title="PK | ENTERTAINMENT",AJJ Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/36871.ts
-#EXTINF:0,Express Entertainment
+
+#EXTINF:-1 tvg-name="Express Entertainment" group-title="PK | ENTERTAINMENT",Express Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/36872.ts
-#EXTINF:0,Hum Sitaray
+
+#EXTINF:-1 tvg-name="Hum Sitaray" group-title="PK | ENTERTAINMENT",Hum Sitaray
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/36873.ts
-#EXTINF:0,Aur Life
+
+#EXTINF:-1 tvg-name="Aur Life" group-title="PK | ENTERTAINMENT",Aur Life
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27052.ts
-#EXTINF:0,Hum Masala
+
+#EXTINF:-1 tvg-name="Hum Masala" group-title="PK | ENTERTAINMENT",Hum Masala
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/36874.ts
-#EXTINF:0,ATV
+
+#EXTINF:-1 tvg-name="ATV" group-title="PK | ENTERTAINMENT",ATV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27065.ts
 #EXTINF:0,8XM Music
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/185.ts
