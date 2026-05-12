@@ -302,13 +302,17 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/36874.ts
 
 #EXTINF:-1 tvg-name="ATV" group-title="PK | ENTERTAINMENT",ATV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27065.ts
-#EXTINF:0,8XM Music
+
+#EXTINF:-1 tvg-name="8XM Music" group-title="PK | MUSIC",8XM Music
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/185.ts
-#EXTINF:0,Jalwa Music
+
+#EXTINF:-1 tvg-name="Jalwa Music" group-title="PK | MUSIC",Jalwa Music
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/186.ts
-#EXTINF:0,ARY Music
+
+#EXTINF:-1 tvg-name="ARY Music" group-title="PK | MUSIC",ARY Music
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/17.ts
-#EXTINF:0,Kashish Tv
+
+#EXTINF:-1 tvg-name="Kashish Tv" group-title="PK | MUSIC",Kashish Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27.ts
 #EXTINF:0,KTN Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27070.ts
