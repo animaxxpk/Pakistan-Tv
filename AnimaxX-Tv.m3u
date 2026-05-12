@@ -297,7 +297,7 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103401.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET IND" group-title="PK & IND | DISCOVERY",ANIMAL PLANET IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96441.ts
 
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Cartoon-Network-Symbol.png" group-title="PK | KIDS CARTOON",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/cnlogo.jpg" group-title="PK | KIDS CARTOON",Cartoon Network
 https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-name="Kids Zone" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/kidszone.png" group-title="PK | KIDS CARTOON",Kids Zone
