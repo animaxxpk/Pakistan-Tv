@@ -197,15 +197,20 @@ http://rolextv.one/live/SyedSobanHaidar/03215838388/28127.m3u8
 
 #EXTINF:-1 tvg-name="FAST SPORTS" group-title="PK & IND | SPORTS",FAST SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/197426.ts
-#EXTINF:0,DISCOVER PAKISTAN
+
+#EXTINF:-1 tvg-name="DISCOVER PAKISTAN" group-title="PK & IND | DISCOVERY",DISCOVER PAKISTAN
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/268568.ts
-#EXTINF:0,DISCOVERY IND
+
+#EXTINF:-1 tvg-name="DISCOVERY IND" group-title="PK & IND | DISCOVERY",DISCOVERY IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/111266.ts
-#EXTINF:0,NATIONAL GEO GRAPHIC IND
+
+#EXTINF:-1 tvg-name="NATIONAL GEO GRAPHIC IND" group-title="PK & IND | DISCOVERY",NATIONAL GEO GRAPHIC IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96633.ts
-#EXTINF:0,NAT GEO WILD IND
+
+#EXTINF:-1 tvg-name="NAT GEO WILD IND" group-title="PK & IND | DISCOVERY",NAT GEO WILD IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103401.ts
-#EXTINF:0,ANIMAL PLANET IND
+
+#EXTINF:-1 tvg-name="ANIMAL PLANET IND" group-title="PK & IND | DISCOVERY",ANIMAL PLANET IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96441.ts
 #EXTINF:0,LTN Family
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27064.ts
