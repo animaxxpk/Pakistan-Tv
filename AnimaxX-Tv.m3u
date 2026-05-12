@@ -222,7 +222,7 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/84.ts
 #EXTINF:-1 tvg-name="Minimax" group-title="PK | KIDS CARTOON",Minimax
 http://rolextv.one/live/SyedSobanHaidar/03215838388/3015.m3u8
 
-#EXTINF:-1 tvg-name="Planet Fun" group-title="PK | KIDS CARTOON",PLanet Fun
+#EXTINF:-1 tvg-name="Planet Fun" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png" group-title="PK | KIDS CARTOON",Planet Fun
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/85.ts
 
 #EXTINF:-1 tvg-name="HOORA Tv" group-title="PK | KIDS CARTOON",HOORA Tv
