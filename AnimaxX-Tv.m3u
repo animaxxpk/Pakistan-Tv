@@ -12,7 +12,7 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/33756.ts
 #EXTINF:-1 tvg-name="Paigham TV" tvg-logo="https://paigham.tv/images/Logo_gold.png" group-title="PK | ISLAMIC",Paigham TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/3017.ts
 
-#EXTINF:-1 tvg-name="Al Ehsan" group-title="PK | ISLAMIC",Al Ehsan
+#EXTINF:-1 tvg-name="Al Ehsan" tvg-logo="https://alehsaan.com/wp-content/uploads/2024/02/CMYK-Logov2-296x300.png" group-title="PK | ISLAMIC",Al Ehsan
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/225460.ts
 
 #EXTINF:-1 tvg-name="Ary Qtv" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/ARY-QTV.png" group-title="PK | ISLAMIC",Ary Qtv
