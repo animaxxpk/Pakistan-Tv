@@ -198,7 +198,7 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/197426.ts
 #EXTINF:-1 tvg-name="Ary Digital" group-title="PK | ENTERTAINMENT",Ary Digital
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26982.ts
 
-#EXTINF:-1 tvg-name="GEO Entertainment" group-title="PK | ENTERTAINMENT",GEO Entertainment
+#EXTINF:-1 tvg-name="GEO Entertainment" tvg-logo="http://ryzen.one/logos2/geo_entertainment.jpg" group-title="PK | ENTERTAINMENT",GEO Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26985.ts
 
 #EXTINF:-1 tvg-name="GEO Kahani" group-title="PK | ENTERTAINMENT",GEO Kahani
