@@ -129,7 +129,7 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/68.ts
 #EXTINF:-1 tvg-name="Channel 5 News" group-title="PK | NEWS",Channel 5 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/36935.ts
 
-#EXTINF:-1 tvg-name="Samaa News" group-title="PK | NEWS",SAMAA News
+#EXTINF:-1 tvg-name="Samaa News" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samaa-tv-pk.svg" group-title="PK | NEWS",SAMAA News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/141372.ts
 
 #EXTINF:-1 tvg-name="Chaupaal News" group-title="PK | NEWS",Chaupaal News
