@@ -207,7 +207,7 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27059.ts
 #EXTINF:-1 tvg-name="Hum TV" group-title="PK | ENTERTAINMENT",Hum TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26988.ts
 
-#EXTINF:-1 tvg-name="LTN Family" group-title="PK | ENTERTAINMENT",LTN Family
+#EXTINF:-1 tvg-name="LTN Family" tvg-logo="https://yt3.googleusercontent.com/OJ_akXrXLvXNFQoj9Pmv4utVVTepdH3JLOuF9VAbraeimqOhZDeQs7ATlu64m1ZKf_rlv1dnZA=s900-c-k-c0x00ffffff-no-rj" group-title="PK | ENTERTAINMENT",LTN Family
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27064.ts
 
 #EXTINF:-1 tvg-name="Green Entertainment" group-title="PK | ENTERTAINMENT",Green Entertainment
