@@ -201,7 +201,7 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26982.ts
 #EXTINF:-1 tvg-name="GEO Entertainment" tvg-logo="http://ryzen.one/logos2/geo_entertainment.jpg" group-title="PK | ENTERTAINMENT",GEO Entertainment
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/26985.ts
 
-#EXTINF:-1 tvg-name="GEO Kahani" group-title="PK | ENTERTAINMENT",GEO Kahani
+#EXTINF:-1 tvg-name="GEO Kahani" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2lQn8j8i9O9SgokMsZFadDUe2PsJYaJFHcg&s" group-title="PK | ENTERTAINMENT",GEO Kahani
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27059.ts
 
 #EXTINF:-1 tvg-name="Hum TV" group-title="PK | ENTERTAINMENT",Hum TV
