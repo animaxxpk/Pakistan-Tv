@@ -36,7 +36,7 @@ http://rolextv.one/live/SyedSobanHaidar/03215838388/225461.m3u8
 #EXTINF:-1 tvg-name="Ary News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PK | NEWS",Ary News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/51.ts
 
-#EXTINF:-1 tvg-name="Geo News" group-title="PK | NEWS",Geo News
+#EXTINF:-1 tvg-name="Geo News" tvg-logo="https://a0.pikist.com/pngimg/1208/450/geos-geo-tez-urdu-geo-super-ary-news-geo-news-geo-tv-lyngsat-breaking-news-geo.png" group-title="PK | NEWS",Geo News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/55.ts
 
 #EXTINF:-1 tvg-name="Geo Tez" group-title="PK | NEWS",Geo Tez
