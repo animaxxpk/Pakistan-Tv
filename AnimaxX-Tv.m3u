@@ -33,7 +33,7 @@ http://rolextv.one/live/SyedSobanHaidar/03215838388/9.m3u8
 #EXTINF:-1 tvg-name="Paigham Pashto TV" group-title="PK | ISLAMIC",Paigham Pashto TV
 http://rolextv.one/live/SyedSobanHaidar/03215838388/225461.m3u8
 
-#EXTINF:-1 tvg-name="Ary News" group-title="PK | NEWS",Ary News
+#EXTINF:-1 tvg-name="Ary News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PK | NEWS",Ary News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/51.ts
 
 #EXTINF:-1 tvg-name="Geo News" group-title="PK | NEWS",Geo News
