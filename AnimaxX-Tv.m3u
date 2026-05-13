@@ -81,7 +81,7 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/62.ts
 #EXTINF:-1 tvg-name="PUBLIC News" group-title="PK | NEWS",PUBLIC News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/80.ts
 
-#EXTINF:-1 tvg-name="7 News" group-title="PK | NEWS",7 NEWS
+#EXTINF:-1 tvg-name="7 News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQGMzNHRsqdNWhMfFeC2zwJwvMObOS-lFJA&s" group-title="PK | NEWS",7 NEWS
 http://rolextv.one/live/SyedSobanHaidar/03215838388/367625.m3u8
 
 #EXTINF:-1 tvg-name="92 News" group-title="PK | NEWS",92 News
