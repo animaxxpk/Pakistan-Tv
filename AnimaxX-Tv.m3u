@@ -165,34 +165,34 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27074.ts
 #EXTINF:-1 tvg-name="Star News" group-title="PK | NEWS",STAR News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/19293.ts
 
-#EXTINF:-1 tvg-name="PTV SPORTS" group-title="PK & IND | SPORTS",PTV SPORTS
+#EXTINF:-1 tvg-name="PTV SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="PK & IND | SPORTS",PTV SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/47588.ts
 
-#EXTINF:-1 tvg-name="TEN SPORTS" group-title="PK & IND | SPORTS",TEN SPORTS
+#EXTINF:-1 tvg-name="TEN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Ten_Sports_Logo.png" group-title="PK & IND | SPORTS",TEN SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/48599.ts
 
-#EXTINF:-1 tvg-name="A SPORTS" group-title="PK & IND | SPORTS",A SPORTS
+#EXTINF:-1 tvg-name="A SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="PK & IND | SPORTS",A SPORTS
 http://rolextv.one/live/SyedSobanHaidar/03215838388/48602.m3u8
 
-#EXTINF:-1 tvg-name="GEO SUPER" group-title="PK & IND | SPORTS",GEO SUPER
+#EXTINF:-1 tvg-name="GEO SUPER" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Geo_Super_logo.png" group-title="PK & IND | SPORTS",GEO SUPER
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/49709.ts
 
-#EXTINF:-1 tvg-name="Eurosport" group-title="PK & IND | SPORTS",Eurosport
+#EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="PK & IND | SPORTS",Eurosport
 https://cdn23lhr.tamashaweb.com:8087/jazzauth/Eurosport-abr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="SuperSports Cricket" group-title="PK & IND | SPORTS",SuperSports Cricket
+#EXTINF:-1 tvg-name="SuperSports Cricket" tvg-logo="https://i.imgur.com/0c5Ox0o.png" group-title="PK & IND | SPORTS",SuperSports Cricket
 http://rolextv.one/live/SyedSobanHaidar/03215838388/27267.m3u8
 
-#EXTINF:-1 tvg-name="Eurosports IND" group-title="PK & IND | SPORTS",Eurosports IND
+#EXTINF:-1 tvg-name="Eurosports IND" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/11/14120517/Eurosport-logo-symbol.png" group-title="PK & IND | SPORTS",Eurosports IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/60379.m3u8
 
-#EXTINF:-1 tvg-name="Star Sports 2 IND" group-title="PK & IND | SPORTS",Star Sports 2 IND
+#EXTINF:-1 tvg-name="Star Sports 2 IND" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-sports-2-hk-in.png" group-title="PK & IND | SPORTS",Star Sports 2 IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27249.ts
 
-#EXTINF:-1 tvg-name="SuperSports Premier League" group-title="PK & IND | SPORTS",SuperSports Premier League
+#EXTINF:-1 tvg-name="SuperSports Premier League" tvg-logo="https://epg.pw/media/images/epg/2025/04/06/20250406040233943557_30.png" group-title="PK & IND | SPORTS",SuperSports Premier League
 http://rolextv.one/live/SyedSobanHaidar/03215838388/28127.m3u8
 
-#EXTINF:-1 tvg-name="FAST SPORTS" group-title="PK & IND | SPORTS",FAST SPORTS
+#EXTINF:-1 tvg-name="FAST SPORTS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Fast-Sports.png" group-title="PK & IND | SPORTS",FAST SPORTS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/197426.ts
 
 #EXTINF:-1 tvg-name="Ary Digital" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8GljSfWHiwhPKYBXIsBtZZ2XSlv222lA4AA&s" group-title="PK | ENTERTAINMENT",Ary Digital
