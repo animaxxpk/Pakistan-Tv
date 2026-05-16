@@ -282,19 +282,19 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/146923.ts
 #EXTINF:-1 tvg-name="RAAVI TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raavi_tv.png" group-title="PK | MOVIES",RAAVI TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27083.ts
 
-#EXTINF:-1 tvg-name="DISCOVER PAKISTAN" group-title="PK & IND | DISCOVERY",DISCOVER PAKISTAN
+#EXTINF:-1 tvg-name="DISCOVER PAKISTAN" tvg-logo="https://media.licdn.com/dms/image/v2/C4D0BAQH2plW4FoejYA/company-logo_200_200/company-logo_200_200/0/1669814581835/discoverpakistanhdtv_logo?e=2147483647&v=beta&t=K6eZes6Oeu5RczvxlGuXD5birbV00xLwMdybiu1chR4" group-title="PK & IND | DISCOVERY",DISCOVER PAKISTAN
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/268568.ts
 
-#EXTINF:-1 tvg-name="DISCOVERY IND" group-title="PK & IND | DISCOVERY",DISCOVERY IND
+#EXTINF:-1 tvg-name="DISCOVERY IND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSM3nOnr0gTjGWklam0157SKw-RX23CeSobg&s" group-title="PK & IND | DISCOVERY",DISCOVERY IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/111266.ts
 
-#EXTINF:-1 tvg-name="NATIONAL GEO GRAPHIC IND" group-title="PK & IND | DISCOVERY",NATIONAL GEO GRAPHIC IND
+#EXTINF:-1 tvg-name="NATIONAL GEO GRAPHIC IND" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/national-geographic-logo-png-transparent.png" group-title="PK & IND | DISCOVERY",NATIONAL GEO GRAPHIC IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96633.ts
 
-#EXTINF:-1 tvg-name="NAT GEO WILD IND" group-title="PK & IND | DISCOVERY",NAT GEO WILD IND
+#EXTINF:-1 tvg-name="NAT GEO WILD IND" tvg-logo="https://images.seeklogo.com/logo-png/33/2/nat-geo-wild-logo-png_seeklogo-333045.png" group-title="PK & IND | DISCOVERY",NAT GEO WILD IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103401.ts
 
-#EXTINF:-1 tvg-name="ANIMAL PLANET IND" group-title="PK & IND | DISCOVERY",ANIMAL PLANET IND
+#EXTINF:-1 tvg-name="ANIMAL PLANET IND" tvg-logo="https://tplicensing.com/wp-content/uploads/2021/02/aplogo.jpg" group-title="PK & IND | DISCOVERY",ANIMAL PLANET IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96441.ts
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/cnlogo.jpg" group-title="PK | KIDS CARTOON",Cartoon Network
