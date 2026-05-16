@@ -270,16 +270,16 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27065.ts
 #EXTINF:-1 tvg-name="FILMAX" tvg-logo="https://www.lyngsat.com/logo/tv/ff/filmax_pk.png" group-title="PK | MOVIES",FILMAX
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27078.ts
 
-#EXTINF:-1 tvg-name="A1 Tv" group-title="PK | MOVIES",A1 Tv
+#EXTINF:-1 tvg-name="A1 Tv" tvg-logo="https://www.lyngsat.com/logo/tv/aa/a1-tv-pk.png" group-title="PK | MOVIES",A1 Tv
 http://rolextv.one/live/SyedSobanHaidar/03215838388/36870.m3u8
 
-#EXTINF:-1 tvg-name="Falak Tv" group-title="PK | MOVIES",Falak Tv
+#EXTINF:-1 tvg-name="Falak Tv" tvg-logo="https://www.virgoiptv.com/uploads/logos/1770723421_WhatsApp%20Image%202026-02-10%20at%201.07.04%20AM.jpeg" group-title="PK | MOVIES",Falak Tv
 https://falak.rst.ae/index.m3u8
 
-#EXTINF:-1 tvg-name="INPLUS" group-title="PK | MOVIES",INPLUS
+#EXTINF:-1 tvg-name="INPLUS" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inplus-pakistan-nl-pk.png" group-title="PK | MOVIES",INPLUS
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/146923.ts
 
-#EXTINF:-1 tvg-name="RAAVI TV" group-title="PK | MOVIES",RAAVI TV
+#EXTINF:-1 tvg-name="RAAVI TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/raavi_tv.png" group-title="PK | MOVIES",RAAVI TV
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27083.ts
 
 #EXTINF:-1 tvg-name="DISCOVER PAKISTAN" group-title="PK & IND | DISCOVERY",DISCOVER PAKISTAN
