@@ -375,3 +375,11 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27075.ts
 #EXTINF:-1 tvg-name="ANOZEN X" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/anozenx.jpeg" group-title="PK | SOCIAL HUB",ANOZEN X
 https://example.com/live/anozenx.m3u8
 
+#EXTINF:-1 tvg-name="Dayan Update" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/dayan.jpeg" group-title="PK | SOCIAL HUB",Dayan Update
+https://example.com/dayanupdate.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Op Kids" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/cartoonop.jpeg" group-title="PK | SOCIAL HUB",Cartoon Op Kids
+https://example.com/cartoonopkids.m3u8
+
+#EXTINF:-1 tvg-name="Anime Hub" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/animehub.jpeg" group-title="PK | SOCIAL HUB",Anime Hub
+https://example.com/animehub.m3u8
