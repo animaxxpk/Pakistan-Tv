@@ -371,3 +371,7 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103402.ts
 
 #EXTINF:-1 tvg-name="Sindh Tv" group-title="PK | REGIONAL",Sindh Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27075.ts
+
+#EXTINF:-1 tvg-name="ANOZEN X" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/anozenx.jpeg" group-title="PK | SOCIAL HUB",ANOZEN X
+https://example.com/live/anozenx.m3u8
+
