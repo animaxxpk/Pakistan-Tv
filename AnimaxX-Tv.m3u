@@ -379,7 +379,7 @@ https://animaxxpk.github.io/anozen-stream/index.m3u8
 https://example.com/dayanupdate.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Op Kids" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/cartoonop.jpeg" group-title="PK | SOCIAL HUB",Cartoon Op Kids
-https://example.com/cartoonopkids.m3u8
+https://animaxxpk.github.io/cartoonop-stream/index.m3u8
 
 #EXTINF:-1 tvg-name="Anime Hub" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/animehub.jpeg" group-title="PK | SOCIAL HUB",Anime Hub
 https://example.com/animehub.m3u8
