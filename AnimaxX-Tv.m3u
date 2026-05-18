@@ -73,13 +73,13 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/49.ts
 #EXTINF:-1 tvg-name="BOL News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BOL_Network.png" group-title="PK | NEWS",BOL News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/52.ts
 
-#EXTINF:-1 tvg-name="DUNYA News" group-title="PK | NEWS",DUNYA News
+#EXTINF:-1 tvg-name="DUNYA News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg" group-title="PK | NEWS",DUNYA News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/53.ts
 
-#EXTINF:-1 tvg-name="NEO News" group-title="PK | NEWS",NEO News
+#EXTINF:-1 tvg-name="NEO News" tvg-logo="https://d34080pnh6e62j.cloudfront.net/adminpanel/assets/uploads/NewChannelThumbnailPath/b8f1b-neo-news.jpg" group-title="PK | NEWS",NEO News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/62.ts
 
-#EXTINF:-1 tvg-name="PUBLIC News" group-title="PK | NEWS",PUBLIC News
+#EXTINF:-1 tvg-name="PUBLIC News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqd3BZ-cx3DuRBheTFsIkY5Q8IqfFtovshaA&s" group-title="PK | NEWS",PUBLIC News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/80.ts
 
 #EXTINF:-1 tvg-name="7 News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQGMzNHRsqdNWhMfFeC2zwJwvMObOS-lFJA&s" group-title="PK | NEWS",7 NEWS
