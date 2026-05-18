@@ -39,37 +39,38 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/51.ts
 #EXTINF:-1 tvg-name="Geo News" tvg-logo="https://a0.pikist.com/pngimg/1208/450/geos-geo-tez-urdu-geo-super-ary-news-geo-news-geo-tv-lyngsat-breaking-news-geo.png" group-title="PK | NEWS",Geo News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/55.ts
 
-#EXTINF:-1 tvg-name="Geo Tez" group-title="PK | NEWS",Geo Tez
+#EXTINF:-1 tvg-name="Geo Tez" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5nTiccn5jWE8ZC50M3T6L8gj-G988BVpTYw&s" group-title="PK | NEWS",Geo Tez
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/56.ts
 
-#EXTINF:-1 tvg-name="Express News" group-title="PK | NEWS",Express News
+#EXTINF:-1 tvg-name="Express News" tvg-logo="https://images.seeklogo.com/logo-png/39/1/express-news-logo-png_seeklogo-390653.png" group-title="PK | NEWS",Express News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/54.ts
 
-#EXTINF:-1 tvg-name="GTV News" group-title="PK | NEWS",GTV News
+#EXTINF:-1 tvg-name="GTV News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhxLmXR0zv9QoQR9DXDDvU6NVG0Genx31DUw&s" group-title="PK | NEWS",GTV News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/58.ts
 
-#EXTINF:-1 tvg-name="GNN News" group-title="PK | NEWS",GNN News
+#EXTINF:-1 tvg-name="GNN News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/GNN_2018.png" group-title="PK | NEWS",GNN News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/57.ts
 
 #EXTINF:-1 tvg-name="AJJ News" tvg-logo="https://www.lyngsat.com/logo/tv/aa/aaj_tv_news.png" group-title="PK | NEWS",AJJ News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/48.ts
 
-#EXTINF:-1 tvg-name="HUM News" group-title="PK | NEWS",HUM News
+
+#EXTINF:-1 tvg-name="HUM News" tvg-logo="https://www.mtctutorials.com/wp-content/uploads/2022/01/Hum-news-logo-png-template-mtc-tutorials.png" group-title="PK | NEWS",HUM News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/59.ts
 
-#EXTINF:-1 tvg-name="ABN News" group-title="PK | NEWS",ABN News
+#EXTINF:-1 tvg-name="ABN News" tvg-logo="https://www.mjunoon.tv/uploads/categories/logo-ABN.png" group-title="PK | NEWS",ABN News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/50.ts
 
-#EXTINF:-1 tvg-name="365 News" group-title="PK | NEWS",365 News
+#EXTINF:-1 tvg-name="365 News" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/new_thumbs/1743087161Untitleddesign.jpg" group-title="PK | NEWS",365 News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/62185.ts
 
-#EXTINF:-1 tvg-name="AIK News" group-title="PK | NEWS",AIK News
+#EXTINF:-1 tvg-name="AIK News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwDY5jx25F6_BQpxbgqPG7HDeFoYb_ONAgg&s" group-title="PK | NEWS",AIK News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/211.ts
 
-#EXTINF:-1 tvg-name="ABBTAKK News" group-title="PK | NEWS",ABBTAKK News
+#EXTINF:-1 tvg-name="ABBTAKK News" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e8058e57163221.Y3JvcCw1NDYsNDI4LDQ1NywyMDU.jpg" group-title="PK | NEWS",ABBTAKK News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/49.ts
 
-#EXTINF:-1 tvg-name="BOL News" group-title="PK | NEWS",BOL News
+#EXTINF:-1 tvg-name="BOL News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BOL_Network.png" group-title="PK | NEWS",BOL News
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/52.ts
 
 #EXTINF:-1 tvg-name="DUNYA News" group-title="PK | NEWS",DUNYA News
