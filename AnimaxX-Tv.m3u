@@ -298,6 +298,9 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103401.ts
 #EXTINF:-1 tvg-name="ANIMAL PLANET IND" tvg-logo="https://tplicensing.com/wp-content/uploads/2021/02/aplogo.jpg" group-title="PK & IND | DISCOVERY",ANIMAL PLANET IND
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/96441.ts
 
+#EXTINF:-1 tvg-id="CN HD+" tvg-name="Cartoon Network HD+" tvg-logo="https://cartoonnetworkhd.github.io/CNHD-/CNHD%2Blogopk.png",Cartoon Network HD+
+https://lbgo.bozztv.com/ssh101/ssh101/cartoonnetwork/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Cartoon Network HD" tvg-logo="https://animaxxpk.github.io/AnozenX-Tv/cnlogo.jpg" group-title="PK | KIDS CARTOON",Cartoon Network HD
 https://tapmadlive.akamaized.net/tapmadold/cartoon.smil/chunklist_w1684291526_b748000_slEng.m3u8
 
