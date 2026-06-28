@@ -251,11 +251,4 @@ http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103402.ts
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/103402.ts
 #EXTINF:0,Sindh Tv
 http://rolextv.one:80/live/SyedSobanHaidar/03215838388/27075.ts
-#EXTINF:0,ANOZEN X
-https://animaxxpk.github.io/anozen-stream/index.m3u8
-#EXTINF:0,Dayan Update
-https://animaxxpk.github.io/dayan-stream/index.m3u8
-#EXTINF:0,Cartoon Op Kids
-https://animaxxpk.github.io/cartoonop-stream/index.m3u8
-#EXTINF:0,Anime Hub
-https://example.com/animehub.m3u8
+
